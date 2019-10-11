@@ -19,3 +19,4 @@ primary key (`id_employes`)
 # myIsam n'inclu pas la gestion des FK.
 # chercher innoDB et MyIsam
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
